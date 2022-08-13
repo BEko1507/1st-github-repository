@@ -1,4 +1,2 @@
-#include 
-
-
-printf("ana hanya")
+printf("ana beko")/n
+printf("ranosha")
